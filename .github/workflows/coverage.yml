@@ -10,4 +10,4 @@ jobs:
             - uses: actions/checkout@v2
             - uses: artiomtr/jest-coverage-report-action@v1.3
               with:
-               test-script: yarn test
+               test-script: yarn jest
