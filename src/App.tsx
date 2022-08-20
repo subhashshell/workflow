@@ -1,6 +1,6 @@
 import React from 'react';
-import Test from './Test'
-import New from './New'
+import New from './New';
+import Test from './Test';
 import './App.css';
 
 function App() {
